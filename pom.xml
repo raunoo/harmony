@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
   	<groupId>com.onepager.webapp</groupId>
   	<artifactId>harmony</artifactId>
-  	<packaging>war</packaging>
+  	<packaging>jar</packaging>
   	<version>0.0.1-SNAPSHOT</version>
   	<name>harmonyapp</name>
 
